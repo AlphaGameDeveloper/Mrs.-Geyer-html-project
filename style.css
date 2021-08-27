@@ -9,14 +9,7 @@ h1 {
     margin-right: auto;
 }
 
-#indexTableContents {
-    display: table;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#AboutMeCenterText {
+.CenterText  {
     display: table;
     text-align: center;
     margin-left: auto;
